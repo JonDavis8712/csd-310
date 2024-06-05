@@ -1,0 +1,17 @@
+{
+    "UserID": 1738,
+    "FirstName": "Jon Bones",
+    "LastName": "Jones",
+    "BirthDate": {
+      "BirthDateID": 1,
+      "BirthDate": "1985-05-15"
+    },
+    "Roles": [
+      { "RoleID": 1, "RoleName": "user" },
+      { "RoleID": 2, "RoleName": "admin" }
+    ],
+    "Dependents": [
+      { "DependentID": 10, "DependentName": "Jane", "RelationshipToUser": "Spouse" },
+      { "DependentID": 11, "DependentName": "Alex", "RelationshipToUser": "Child" }
+    ]
+  }
